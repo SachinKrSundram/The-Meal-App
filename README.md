@@ -1,3 +1,7 @@
+GO on live:    https://sachinkrsundram.github.io/The-Meal-App/
+
+
+
 # The Meal App 
 This project is a web application that utilizes the power of vanilla JavaScript to provide a seamless user experience. The main feature of the app is its ability to search for food recipes using the Themealdb API. The API returns a variety of data related to the searched recipe, such as ingredients, instructions, and nutritional information. The app then displays this information in an easy-to-read format, allowing users to quickly find the recipe they are looking for.
 
@@ -38,7 +42,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Demo
 
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at https://sachinkrsundram.github.io/The-Meal-App/
 
 ## Authors
 
